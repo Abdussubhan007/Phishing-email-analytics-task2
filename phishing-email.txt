@@ -1,0 +1,13 @@
+From: PayPal Support <support@paypalsecure.com>
+Subject: Your Account is Suspended!
+
+Dear Customer,
+
+Your PayPal account has been suspended due to suspicious activities. Please click the link below to verify your account immediately to avoid permanent suspension.
+
+👉 [Click here to verify](http://paypal-security-check.ru)
+
+Failure to comply will result in account termination.
+
+Thank you,
+PayPal Security Team

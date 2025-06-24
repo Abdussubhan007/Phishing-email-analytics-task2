@@ -1,0 +1,40 @@
+## Phishing Indicators Identified:
+
+1. **Fake Sender Email:**  
+   The sender address (`support@paypalsecure.com`) is not an official PayPal domain.
+
+2. **Urgent Language:**  
+   The email says “Your account is suspended!” and “Failure to comply will result in account termination” to scare the recipient.
+
+3. **Mismatched Link:**  
+   The hyperlink says “Click here to verify” but points to `paypal-security-check.ru`, a suspicious .ru domain.
+
+4. **Grammar Issues:**  
+   The email contains basic grammar problems like “verify your account immediately to avoid permanent suspension.”
+
+5. **Unusual Request:**  
+   Asking users to verify their account via email is a red flag for phishing.
+
+
+
+## 🛠 Tools Used:
+
+- Manual visual inspection
+- Hovering over links
+- Common phishing detection knowledge
+
+
+
+## 📥 Email Header Analysis:
+
+Email header analysis was **not performed** because the email was not received from a live inbox.  
+However, tools like **MXToolbox Email Header Analyzer** can help identify:
+- Spoofed sender domains
+- IP addresses of relay servers
+- Auth-check failures (SPF, DKIM, DMARC)
+
+
+
+## ✅ Conclusion:
+
+This email demonstrates multiple phishing indicators, such as fake sender, suspicious links, and urgent language, all designed to steal user credentials.
